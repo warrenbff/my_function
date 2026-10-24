@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {"id":"market","type":"text","text":"[[시장]]","x":0,"y":0,"width":160,"height":60},
+    {"id":"sector","type":"text","text":"[[섹터]]","x":220,"y":0,"width":160,"height":60},
+    {"id":"group","type":"text","text":"[[산업 그룹]]","x":440,"y":0,"width":180,"height":60},
+    {"id":"bottleneck","type":"text","text":"[[병목]]\n[[03. 병목 판정]]","x":680,"y":0,"width":200,"height":90},
+    {"id":"context","type":"text","text":"[[04. 병목 전달 문맥]]\nbottleneck_context","x":680,"y":160,"width":200,"height":90},
+    {"id":"company","type":"text","text":"[[기업]]\n[[05. 텐베거 후보 선별]]","x":940,"y":160,"width":220,"height":90},
+    {"id":"valuation","type":"text","text":"[[06. 가치평가와 의사결정]]","x":1200,"y":160,"width":230,"height":70}
+  ],
+  "edges": [
+    {"id":"e1","fromNode":"market","toNode":"sector","label":"포함한다"},
+    {"id":"e2","fromNode":"sector","toNode":"group","label":"포함한다"},
+    {"id":"e3","fromNode":"group","toNode":"bottleneck","label":"판정한다"},
+    {"id":"e4","fromNode":"bottleneck","toNode":"context","label":"근거를 고정한다"},
+    {"id":"e5","fromNode":"context","toNode":"company","label":"후보 풀을 제한한다"},
+    {"id":"e6","fromNode":"company","toNode":"valuation","label":"검증한다"}
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "scope": "obsidian-external-investor",
+  "recorded_at": "2026-10-18",
+  "nodes": [
+    {
+      "id": "HJC-A01",
+      "type": "external-investor",
+      "name": "홍진채",
+      "note": "홍진채/ROE 지속기간과 적정 PBR.md"
+    },
+    {
+      "id": "HJC-S01",
+      "type": "source",
+      "name": "거인의 어깨 2 제공 사진",
+      "note": "홍진채/출처/거인의 어깨 2 제공 사진.md",
+      "sha256": "c92c1f2c456dfcf55c0b30901ea29db04a1bd9bfdec9ce9c8dbb04291f0bb817",
+      "evidence_status": "user_provided_page"
+    },
+    {
+      "id": "HJC-M01",
+      "type": "external-valuation-model",
+      "name": "ROE 지속기간과 적정 PBR",
+      "note": "홍진채/ROE 지속기간과 적정 PBR.md",
+      "formula": "((1+ROE)/(1+r))**N",
+      "adoption_status": "reference_only",
+      "source_id": "HJC-S01"
+    },
+    {
+      "id": "HJC-V01",
+      "type": "concept-reference",
+      "name": "가치평가",
+      "note": "개념/가치평가.md"
+    }
+  ],
+  "edges": [
+    {
+      "from": "HJC-A01",
+      "relation": "저술한다",
+      "to": "HJC-S01",
+      "evidence": "사용자의 서명과 저자 설명"
+    },
+    {
+      "from": "HJC-S01",
+      "relation": "제시한다",
+      "to": "HJC-M01",
+      "evidence": "제공 사진 공식과 표 10-6"
+    },
+    {
+      "from": "HJC-M01",
+      "relation": "참고모형이다",
+      "to": "HJC-V01",
+      "evidence": "분석자의 개념 분류; 개인 규칙 채택 아님"
+    }
+  ],
+  "adoption_events": []
+}

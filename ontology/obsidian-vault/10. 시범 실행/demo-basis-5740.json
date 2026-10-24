@@ -1,0 +1,16 @@
+{
+  "group_code": "5740",
+  "reviewed_at": "2026-09-02",
+  "constraint": "Synthetic advanced-packaging capacity constraint for workflow demonstration only",
+  "duration": "Synthetic four-year constraint",
+  "duration_years": 4,
+  "controller": "Synthetic foundry and packaging suppliers",
+  "verdict": "pass",
+  "sources": [
+    {
+      "title": "Synthetic demonstration source - not market evidence",
+      "url": "https://example.com/synthetic-demo",
+      "observed_at": "2026-09-02"
+    }
+  ]
+}

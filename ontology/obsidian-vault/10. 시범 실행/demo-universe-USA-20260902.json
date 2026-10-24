@@ -1,0 +1,16 @@
+{
+  "market": "USA",
+  "count": 9,
+  "missing_valuation": 0,
+  "stocks": [
+    {"id":"PKG1","t":"PKG1","name":"Demo Packaging 1","g":"5740","s":"57","cap":9000,"ret":{"1m":12,"3m":24,"6m":38,"ytd":42,"1y":55},"val":{"mcap":9000,"ev":9000,"es26":4,"es27":2,"ee26":20,"ee27":6.6667,"tgt":120,"tlo":80,"thi":160,"nest":5}},
+    {"id":"PKG2","t":"PKG2","name":"Demo Packaging 2","g":"5740","s":"57","cap":8000,"ret":{"1m":11,"3m":22,"6m":35,"ytd":40,"1y":50},"val":{"mcap":8000,"ev":8000,"es26":4,"es27":2,"ee26":20,"ee27":6.6667,"tgt":110,"tlo":70,"thi":150,"nest":5}},
+    {"id":"PKG3","t":"PKG3","name":"Demo Packaging 3","g":"5740","s":"57","cap":7000,"ret":{"1m":10,"3m":20,"6m":32,"ytd":37,"1y":46},"val":{"mcap":7000,"ev":7000,"es26":4,"es27":2,"ee26":20,"ee27":6.6667,"tgt":100,"tlo":65,"thi":135,"nest":4}},
+    {"id":"IND1","t":"IND1","name":"Demo Industrial 1","g":"5720","s":"57","cap":12000,"ret":{"1m":5,"3m":10,"6m":16,"ytd":18,"1y":21},"val":{"mcap":12000,"ev":12000,"es26":4,"es27":3,"ee26":20,"ee27":13.6364,"tgt":90,"tlo":75,"thi":105,"nest":5}},
+    {"id":"IND2","t":"IND2","name":"Demo Industrial 2","g":"5720","s":"57","cap":11000,"ret":{"1m":4,"3m":9,"6m":15,"ytd":17,"1y":20},"val":{"mcap":11000,"ev":11000,"es26":4,"es27":3,"ee26":20,"ee27":13.6364,"tgt":85,"tlo":70,"thi":100,"nest":4}},
+    {"id":"IND3","t":"IND3","name":"Demo Industrial 3","g":"5720","s":"57","cap":10000,"ret":{"1m":3,"3m":8,"6m":14,"ytd":16,"1y":19},"val":{"mcap":10000,"ev":10000,"es26":4,"es27":3,"ee26":20,"ee27":13.6364,"tgt":80,"tlo":68,"thi":92,"nest":4}},
+    {"id":"MAT1","t":"MAT1","name":"Demo Materials 1","g":"5130","s":"51","cap":15000,"ret":{"1m":-2,"3m":1,"6m":4,"ytd":5,"1y":7},"val":{"mcap":15000,"ev":15000,"es26":4,"es27":3.5,"ee26":20,"ee27":16.6667,"tgt":60,"tlo":57,"thi":63,"nest":5}},
+    {"id":"MAT2","t":"MAT2","name":"Demo Materials 2","g":"5130","s":"51","cap":14000,"ret":{"1m":-1,"3m":2,"6m":5,"ytd":6,"1y":8},"val":{"mcap":14000,"ev":14000,"es26":4,"es27":3.5,"ee26":20,"ee27":16.6667,"tgt":62,"tlo":58,"thi":66,"nest":5}},
+    {"id":"MAT3","t":"MAT3","name":"Demo Materials 3","g":"5130","s":"51","cap":13000,"ret":{"1m":0,"3m":3,"6m":6,"ytd":7,"1y":9},"val":{"mcap":13000,"ev":13000,"es26":4,"es27":3.5,"ee26":20,"ee27":16.6667,"tgt":64,"tlo":60,"thi":68,"nest":4}}
+  ]
+}

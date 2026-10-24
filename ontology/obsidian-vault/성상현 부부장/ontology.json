@@ -1,0 +1,1700 @@
+{
+  "schema_version": "1.0",
+  "scope": "obsidian-external-investor",
+  "recorded_at": "2026-09-16",
+  "nodes": [
+    {
+      "id": "SSH-A01",
+      "type": "external-investor",
+      "name": "성상현",
+      "note": "성상현 부부장/00. 성상현 부부장 투자철학 지도.md"
+    },
+    {
+      "id": "SSH-S01",
+      "type": "source",
+      "note": "성상현 부부장/출처/돈의 방향.md",
+      "pages": 268,
+      "source_path": "C:\\Users\\stwp1\\Desktop\\주식\\돈의방향.pdf",
+      "sha256": "753157731b64456b478561571e9df2dd85c888f616e1cfd70745965c9c9e2cbd"
+    },
+    {
+      "id": "SSH-X01",
+      "type": "principle-comparison",
+      "note": "투자철학/01. 성상현 관점과 내 복기 비교.md",
+      "status": "정리자 잠정 비교"
+    },
+    {
+      "id": "RET-FLNC",
+      "type": "existing-retrospective",
+      "note": "복기/투자 사례/플루언스 에너지.md"
+    },
+    {
+      "id": "RET-POET",
+      "type": "existing-retrospective",
+      "note": "복기/투자 사례/PoET Technologies.md"
+    },
+    {
+      "id": "SSH-C01",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C01 산업의 자본 흐름에서 기업으로 내려온다.md",
+      "summary": "시장 국면과 주도 산업을 먼저 살핀 뒤 그 안에서 기업 후보를 고르고, 정량 선별 이후 산업·기업 분석으로 투자 논리를 검증한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        53,
+        54,
+        66,
+        70,
+        237,
+        238
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-시장",
+      "type": "existing-concept",
+      "note": "개념/시장.md"
+    },
+    {
+      "id": "CONCEPT-산업 그룹",
+      "type": "existing-concept",
+      "note": "개념/산업 그룹.md"
+    },
+    {
+      "id": "CONCEPT-병목",
+      "type": "existing-concept",
+      "note": "개념/병목.md"
+    },
+    {
+      "id": "CONCEPT-기업",
+      "type": "existing-concept",
+      "note": "개념/기업.md"
+    },
+    {
+      "id": "SSH-C02",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C02 병목의 수혜는 기업의 이익으로 확인한다.md",
+      "summary": "자본지출이 공급망의 주문을 만들더라도 수요 대비 공급 제약과 가격결정력이 있어야 기업의 매출·마진·현금흐름으로 수혜가 이어진다고 본다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        188,
+        189,
+        194,
+        195,
+        199,
+        203,
+        236,
+        239
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-병목 근거",
+      "type": "existing-concept",
+      "note": "개념/병목 근거.md"
+    },
+    {
+      "id": "CONCEPT-관측값",
+      "type": "existing-concept",
+      "note": "개념/관측값.md"
+    },
+    {
+      "id": "SSH-C03",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C03 네 팩터와 주도주의 생애주기를 함께 본다.md",
+      "summary": "가치·성장·모멘텀·퀄리티는 서로 다른 질문이며, 시장 국면과 주도주의 성장 단계에 따라 강조점이 달라진다고 설명한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        27,
+        28,
+        29,
+        40,
+        42,
+        44,
+        46,
+        47,
+        48
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-투자 가설",
+      "type": "existing-concept",
+      "note": "개념/투자 가설.md"
+    },
+    {
+      "id": "CONCEPT-가치평가",
+      "type": "existing-concept",
+      "note": "개념/가치평가.md"
+    },
+    {
+      "id": "CONCEPT-리스크",
+      "type": "existing-concept",
+      "note": "개념/리스크.md"
+    },
+    {
+      "id": "SSH-C04",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C04 일회성 급등보다 지속적인 상대강도를 본다.md",
+      "summary": "COMP는 순위 모멘텀·스마트머니·가격 모멘텀·밸류에이션을 결합해 후보의 우선순위를 정한다. 한 번의 급등보다 여러 기간의 지속성을 중시한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        52,
+        53,
+        74,
+        75,
+        76,
+        77,
+        80,
+        81,
+        83,
+        85,
+        87
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-판정 이벤트",
+      "type": "existing-concept",
+      "note": "개념/판정 이벤트.md"
+    },
+    {
+      "id": "CONCEPT-데이터셋",
+      "type": "existing-concept",
+      "note": "개념/데이터셋.md"
+    },
+    {
+      "id": "SSH-C05",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C05 재무의 수준과 개선 방향을 구분한다.md",
+      "summary": "책의 한국 특화 F-스코어는 기업의 절대 수준보다 전년 대비 재무 개선 여부를 점검한다. 원형 피오트로스키 9점 모형과 다른 지표다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        112,
+        113
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "SSH-C06",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C06 시장 신호와 재무 증거를 교차 검증한다.md",
+      "summary": "시장의 관심을 나타내는 COMP와 재무 개선을 나타내는 F-스코어를 함께 본 뒤, 국면·산업 사이클·안전마진을 추가로 검토한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        109,
+        110,
+        114,
+        115,
+        118,
+        121,
+        123,
+        124,
+        125,
+        129
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-주장",
+      "type": "existing-concept",
+      "note": "개념/주장.md"
+    },
+    {
+      "id": "CONCEPT-안전마진",
+      "type": "existing-concept",
+      "note": "개념/안전마진.md"
+    },
+    {
+      "id": "SSH-C07",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C07 적정가치는 가정이 붙은 범위로 다룬다.md",
+      "summary": "업종에 맞는 배수법·DCF·자산가치로 교차 검토하고, 목표가 하나보다 성장·마진·할인율 가정에 따른 가치 범위를 본다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        130,
+        132,
+        135,
+        136,
+        138,
+        139,
+        141,
+        142,
+        143,
+        145,
+        146,
+        147
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "SSH-C08",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C08 매수 전에 철회 조건을 정한다.md",
+      "summary": "가격·시장 모형·재무 변화에 각각 대응 기준을 정해 판단 오류가 장기 방치되지 않게 한다. 재매수에는 새로운 근거가 필요하다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        54,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        200,
+        201,
+        242
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전",
+      "interpretation_guardrail_id": "SSH-G01"
+    },
+    {
+      "id": "CONCEPT-재평가 트리거",
+      "type": "existing-concept",
+      "note": "개념/재평가 트리거.md"
+    },
+    {
+      "id": "SSH-C09",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C09 확신과 포트폴리오 비중을 분리한다.md",
+      "summary": "집중은 상승과 손실을 함께 키운다. 종목 수뿐 아니라 공통 섹터·고객 투자·금리·유동성 위험을 보고 비중과 현금을 관리한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        87,
+        91,
+        113,
+        172,
+        177,
+        178,
+        179,
+        182,
+        230,
+        231,
+        235,
+        238
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-의사결정 상태",
+      "type": "existing-concept",
+      "note": "개념/의사결정 상태.md"
+    },
+    {
+      "id": "SSH-C10",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C10 주주가 받는 성장은 자본 배분으로 결정된다.md",
+      "summary": "매출·이익 성장에 더해 재투자 수익률, 부채, 주식보상과 순주식 수를 살핀다. 자사주 매입 발표와 주당가치 개선을 구분한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        35,
+        36,
+        42,
+        126,
+        127,
+        128,
+        129,
+        229,
+        258,
+        259,
+        260,
+        264,
+        265
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "SSH-C11",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C11 거시 국면은 단일 금리선보다 조합으로 판단한다.md",
+      "summary": "총유동성과 금융시장 내부 자금조달을 나누고, 금리차 확대의 원인이 단기금리 하락인지 장기금리 급등인지 확인한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        123,
+        201,
+        204,
+        205,
+        206,
+        207,
+        211,
+        212,
+        213,
+        217,
+        227,
+        228,
+        229
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "SSH-C12",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C12 자금 확산은 실제 시장 폭과 이익 개선으로 확인한다.md",
+      "summary": "대형주 중심 상승에서 중소형·다른 산업으로 자금이 확산되는지는 유동성·금리·달러와 실제 시장 폭을 함께 확인한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        210,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "SSH-C13",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C13 해외주식은 현지 데이터에 맞는 모형을 쓴다.md",
+      "summary": "해외주식은 국내 기관·외국인 일별 수급을 그대로 복제하지 않고 퀄리티·모멘텀·밸류에이션·성장 중심으로 평가한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        163,
+        164,
+        165,
+        166,
+        167,
+        175,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        232,
+        233
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "SSH-C14",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C14 백테스트 수익보다 재현 가능성과 생존을 점검한다.md",
+      "summary": "저자는 모형 가중치를 개인적 근사값으로 설명하고 짧은 기간 성과·과최적화의 한계를 인정한다. 여러 국면에서 지속 가능한 실행을 강조한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        88,
+        89,
+        91,
+        168,
+        170,
+        171,
+        172,
+        176,
+        179,
+        183,
+        249,
+        255,
+        256,
+        257
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-반대 사례",
+      "type": "existing-concept",
+      "note": "개념/반대 사례.md"
+    },
+    {
+      "id": "CONCEPT-미탐지 사례",
+      "type": "existing-concept",
+      "note": "개념/미탐지 사례.md"
+    },
+    {
+      "id": "SSH-C15",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C15 가격 하락만으로 추가매수하지 않는다.md",
+      "summary": "급락 시 유동성·손실 한도를 먼저 확인하고, 할인율 변화와 사업 훼손을 구분한다. 현금흐름·신용·수요가 지지할 때 단계적으로 위험을 늘린다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        68,
+        70,
+        125,
+        201,
+        230,
+        241,
+        242,
+        243
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "SSH-C16",
+      "type": "external-investment-principle",
+      "note": "성상현 부부장/원칙/SSH-C16 투자철학은 설명 가능한 결정과 복기로 발전시킨다.md",
+      "summary": "모형과 AI는 탐색·검증 도구이며 투자 목적·시간축·감당할 손실은 사람이 정한다. 가설과 반증을 기록하고 결과를 판단·비중·실행으로 나눠 복기한다.",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        55,
+        57,
+        59,
+        158,
+        159,
+        222,
+        225,
+        233,
+        234,
+        242,
+        243,
+        244,
+        245
+      ],
+      "adoption_status": "미정",
+      "evidence_status": "원문 확인·효과 독립검증 전"
+    },
+    {
+      "id": "CONCEPT-투자 사례",
+      "type": "existing-concept",
+      "note": "개념/투자 사례.md"
+    },
+    {
+      "id": "SSH-O01",
+      "type": "source-observation",
+      "note": "성상현 부부장/관측/SSH-O01 모형 가중치.md",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        85,
+        102,
+        109,
+        249,
+        255,
+        256
+      ],
+      "independent_validation": false
+    },
+    {
+      "id": "SSH-O02",
+      "type": "source-observation",
+      "note": "성상현 부부장/관측/SSH-O02 매도 기준의 원문 차이.md",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        149,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        200
+      ],
+      "independent_validation": false,
+      "interpretation_guardrail_id": "SSH-G01"
+    },
+    {
+      "id": "SSH-O03",
+      "type": "source-observation",
+      "note": "성상현 부부장/관측/SSH-O03 성과 보고와 검증 상태.md",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        89,
+        168,
+        170,
+        171,
+        172,
+        176,
+        179,
+        183,
+        249,
+        256
+      ],
+      "independent_validation": false
+    },
+    {
+      "id": "RET-RANK-FLNC-POET-20260917",
+      "type": "retrospective-ranking",
+      "note": "투자철학/03. 상세 복기 주도주 순위.md",
+      "status": "reference_only",
+      "calculation": "reports/retrospective-leaders-20260916/ranking-detailed.json",
+      "scope": [
+        "RET-FLNC",
+        "RET-POET"
+      ]
+    },
+    {
+      "id": "RET-LEAD-POET-20260917",
+      "type": "leadership-observation",
+      "note": "투자철학/03. 상세 복기 주도주 순위.md",
+      "case": "RET-POET",
+      "rank": 1,
+      "score": 100.0,
+      "absolute_pass_count": 0
+    },
+    {
+      "id": "RET-LEAD-FLNC-20260917",
+      "type": "leadership-observation",
+      "note": "투자철학/03. 상세 복기 주도주 순위.md",
+      "case": "RET-FLNC",
+      "rank": 2,
+      "score": 0.0,
+      "absolute_pass_count": 0
+    },
+    {
+      "id": "RET-SCREEN-LEADER-20260918",
+      "type": "personal-screening-protocol",
+      "note": "투자철학/04. 다음 주도주 탐색 기준.md",
+      "status": "draft",
+      "method": "COMP 주도주 점수와 F-score를 분리한 2단계 선별"
+    },
+    {
+      "id": "RET-SCREEN-12-20260928",
+      "type": "retrospective-screen-board",
+      "note": "투자철학/05. 12종목 복기 선별판.md",
+      "status": "in_progress",
+      "calculation": "reports/retrospective-leaders-20260916/retrospective-screen.json"
+    },
+    {
+      "id": "SSH-G01",
+      "type": "interpretation-guardrail",
+      "note": "성상현 부부장/06. 스크리닝과 실행 해석 경계.md",
+      "recorded_at": "2026-09-25",
+      "source_id": "SSH-S01",
+      "source_pages": [
+        149,
+        150,
+        151,
+        152,
+        155,
+        164,
+        165,
+        166,
+        167
+      ],
+      "status": "reference_only",
+      "statement_type": "사용자 대화에 따른 정리자 해석 명세",
+      "adoption_status": "매매 규칙 채택 아님",
+      "rule_classification": "price_stop_with_discretionary_exception",
+      "strict_mechanical_stop": false,
+      "execution_ready": false,
+      "screening_auto_exclusion": false,
+      "fundamental_impairment_inferred_from_price": false,
+      "unresolved_fields": [
+        "exact_threshold",
+        "observation_price_and_time",
+        "reduction_or_liquidation",
+        "reduction_fraction",
+        "event_definition",
+        "deferral_deadline",
+        "post_event_action",
+        "strategy_market_scope"
+      ],
+      "missing_score_policy": "unavailable_not_zero",
+      "official_foreign_factor_score_reproducible": false
+    },
+    {
+      "id": "SSH-CASE-HYNIX-20261008",
+      "type": "external-principle-case-review",
+      "note": "성상현 부부장/사례/하이닉스 상승을 포착할 수 있었는가.md",
+      "recorded_at": "2026-10-08",
+      "author": "assistant",
+      "status": "부분 증거 확인·정식 점수 미산출",
+      "adoption_status": "제안 미채택",
+      "historical_author_trade_record": false,
+      "personal_memory": false,
+      "principle_source_published_at": "2026-09-07",
+      "price_observation_end": "2026-09-23",
+      "execution_review_superseded_by": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "id": "SSH-HYNIX-PRICE-20261008",
+      "type": "computed-observation",
+      "source": "reports/ssh-hynix-20261008/replay.json",
+      "method": "선택 기준일의 20·60거래일 종가 수익률과 KOSPI 비교; COMP 산식 아님",
+      "outcome_separation": "outcome_only는 사후 결과이며 당시 입력 아님"
+    },
+    {
+      "id": "TR-002",
+      "type": "learning-cycle",
+      "note": "피드백/훈련 기록/TR-002 성상현 원칙으로 하이닉스 점검.md",
+      "stage": "외부 원칙 비교 완료",
+      "adoption_status": "새 규칙 미채택"
+    },
+    {
+      "id": "SSH-CASE-HYNIX-WAIVER-20261008",
+      "type": "external-principle-execution-review",
+      "note": "성상현 부부장/사례/하이닉스 전체 운용 원칙과 유예 재검토.md",
+      "recorded_at": "2026-10-08",
+      "status": "원칙별 적용 상태 점검·조건부 유예 계산; 최종 매매 이력 미확정",
+      "adoption_status": "연구 요청이며 미채택",
+      "source_pages": [
+        86,
+        87,
+        110,
+        113,
+        123,
+        124,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        200,
+        201,
+        238,
+        241,
+        242
+      ],
+      "visual_checked_pages": [
+        152,
+        155,
+        200,
+        201
+      ],
+      "calculation": "reports/ssh-hynix-20261008/waiver-replay.json",
+      "unresolved_decisions": [
+        "비중 축소 대 전량 청산",
+        "가격 규칙 대 근거 유지 보유의 적용 범위",
+        "대형 이벤트 및 직전의 정의",
+        "유예 복귀 시 미집행 주문 처리",
+        "정식 모형 점수와 거시·가치·계좌 조건"
+      ],
+      "personal_memory": false
+    }
+  ],
+  "edges": [
+    {
+      "from": "SSH-A01",
+      "relation": "저술한다",
+      "to": "SSH-S01"
+    },
+    {
+      "from": "RET-FLNC",
+      "relation": "비교에_사용된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "RET-POET",
+      "relation": "비교에_사용된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          53,
+          54,
+          66,
+          70,
+          237,
+          238
+        ]
+      }
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "연결된다",
+      "to": "CONCEPT-시장"
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "연결된다",
+      "to": "CONCEPT-산업 그룹"
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "연결된다",
+      "to": "CONCEPT-병목"
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "연결된다",
+      "to": "CONCEPT-기업"
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          188,
+          189,
+          194,
+          195,
+          199,
+          203,
+          236,
+          239
+        ]
+      }
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "연결된다",
+      "to": "CONCEPT-병목"
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "연결된다",
+      "to": "CONCEPT-병목 근거"
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "연결된다",
+      "to": "CONCEPT-기업"
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "연결된다",
+      "to": "CONCEPT-관측값"
+    },
+    {
+      "from": "SSH-C03",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          27,
+          28,
+          29,
+          40,
+          42,
+          44,
+          46,
+          47,
+          48
+        ]
+      }
+    },
+    {
+      "from": "SSH-C03",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C03",
+      "relation": "연결된다",
+      "to": "CONCEPT-투자 가설"
+    },
+    {
+      "from": "SSH-C03",
+      "relation": "연결된다",
+      "to": "CONCEPT-가치평가"
+    },
+    {
+      "from": "SSH-C03",
+      "relation": "연결된다",
+      "to": "CONCEPT-리스크"
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          52,
+          53,
+          74,
+          75,
+          76,
+          77,
+          80,
+          81,
+          83,
+          85,
+          87
+        ]
+      }
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "연결된다",
+      "to": "CONCEPT-판정 이벤트"
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "연결된다",
+      "to": "CONCEPT-데이터셋"
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "연결된다",
+      "to": "CONCEPT-관측값"
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          112,
+          113
+        ]
+      }
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "연결된다",
+      "to": "CONCEPT-관측값"
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "연결된다",
+      "to": "CONCEPT-기업"
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "연결된다",
+      "to": "CONCEPT-리스크"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          109,
+          110,
+          114,
+          115,
+          118,
+          121,
+          123,
+          124,
+          125,
+          129
+        ]
+      }
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "연결된다",
+      "to": "CONCEPT-주장"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "연결된다",
+      "to": "CONCEPT-관측값"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "연결된다",
+      "to": "CONCEPT-판정 이벤트"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "연결된다",
+      "to": "CONCEPT-안전마진"
+    },
+    {
+      "from": "SSH-C07",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          130,
+          132,
+          135,
+          136,
+          138,
+          139,
+          141,
+          142,
+          143,
+          145,
+          146,
+          147
+        ]
+      }
+    },
+    {
+      "from": "SSH-C07",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C07",
+      "relation": "연결된다",
+      "to": "CONCEPT-가치평가"
+    },
+    {
+      "from": "SSH-C07",
+      "relation": "연결된다",
+      "to": "CONCEPT-안전마진"
+    },
+    {
+      "from": "SSH-C07",
+      "relation": "연결된다",
+      "to": "CONCEPT-투자 가설"
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          54,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          200,
+          201,
+          242
+        ]
+      }
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "연결된다",
+      "to": "CONCEPT-재평가 트리거"
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "연결된다",
+      "to": "CONCEPT-리스크"
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "연결된다",
+      "to": "CONCEPT-판정 이벤트"
+    },
+    {
+      "from": "SSH-C09",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          87,
+          91,
+          113,
+          172,
+          177,
+          178,
+          179,
+          182,
+          230,
+          231,
+          235,
+          238
+        ]
+      }
+    },
+    {
+      "from": "SSH-C09",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C09",
+      "relation": "연결된다",
+      "to": "CONCEPT-리스크"
+    },
+    {
+      "from": "SSH-C09",
+      "relation": "연결된다",
+      "to": "CONCEPT-기업"
+    },
+    {
+      "from": "SSH-C09",
+      "relation": "연결된다",
+      "to": "CONCEPT-의사결정 상태"
+    },
+    {
+      "from": "SSH-C10",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          35,
+          36,
+          42,
+          126,
+          127,
+          128,
+          129,
+          229,
+          258,
+          259,
+          260,
+          264,
+          265
+        ]
+      }
+    },
+    {
+      "from": "SSH-C10",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C10",
+      "relation": "연결된다",
+      "to": "CONCEPT-기업"
+    },
+    {
+      "from": "SSH-C10",
+      "relation": "연결된다",
+      "to": "CONCEPT-가치평가"
+    },
+    {
+      "from": "SSH-C10",
+      "relation": "연결된다",
+      "to": "CONCEPT-리스크"
+    },
+    {
+      "from": "SSH-C11",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          123,
+          201,
+          204,
+          205,
+          206,
+          207,
+          211,
+          212,
+          213,
+          217,
+          227,
+          228,
+          229
+        ]
+      }
+    },
+    {
+      "from": "SSH-C11",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C11",
+      "relation": "연결된다",
+      "to": "CONCEPT-시장"
+    },
+    {
+      "from": "SSH-C11",
+      "relation": "연결된다",
+      "to": "CONCEPT-리스크"
+    },
+    {
+      "from": "SSH-C11",
+      "relation": "연결된다",
+      "to": "CONCEPT-재평가 트리거"
+    },
+    {
+      "from": "SSH-C12",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          210,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221
+        ]
+      }
+    },
+    {
+      "from": "SSH-C12",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C12",
+      "relation": "연결된다",
+      "to": "CONCEPT-시장"
+    },
+    {
+      "from": "SSH-C12",
+      "relation": "연결된다",
+      "to": "CONCEPT-산업 그룹"
+    },
+    {
+      "from": "SSH-C12",
+      "relation": "연결된다",
+      "to": "CONCEPT-관측값"
+    },
+    {
+      "from": "SSH-C13",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          163,
+          164,
+          165,
+          166,
+          167,
+          175,
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          232,
+          233
+        ]
+      }
+    },
+    {
+      "from": "SSH-C13",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C13",
+      "relation": "연결된다",
+      "to": "CONCEPT-데이터셋"
+    },
+    {
+      "from": "SSH-C13",
+      "relation": "연결된다",
+      "to": "CONCEPT-기업"
+    },
+    {
+      "from": "SSH-C13",
+      "relation": "연결된다",
+      "to": "CONCEPT-가치평가"
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          88,
+          89,
+          91,
+          168,
+          170,
+          171,
+          172,
+          176,
+          179,
+          183,
+          249,
+          255,
+          256,
+          257
+        ]
+      }
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "연결된다",
+      "to": "CONCEPT-데이터셋"
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "연결된다",
+      "to": "CONCEPT-반대 사례"
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "연결된다",
+      "to": "CONCEPT-미탐지 사례"
+    },
+    {
+      "from": "SSH-C15",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          68,
+          70,
+          125,
+          201,
+          230,
+          241,
+          242,
+          243
+        ]
+      }
+    },
+    {
+      "from": "SSH-C15",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C15",
+      "relation": "연결된다",
+      "to": "CONCEPT-투자 가설"
+    },
+    {
+      "from": "SSH-C15",
+      "relation": "연결된다",
+      "to": "CONCEPT-리스크"
+    },
+    {
+      "from": "SSH-C15",
+      "relation": "연결된다",
+      "to": "CONCEPT-재평가 트리거"
+    },
+    {
+      "from": "SSH-C16",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          55,
+          57,
+          59,
+          158,
+          159,
+          222,
+          225,
+          233,
+          234,
+          242,
+          243,
+          244,
+          245
+        ]
+      }
+    },
+    {
+      "from": "SSH-C16",
+      "relation": "비교된다",
+      "to": "SSH-X01"
+    },
+    {
+      "from": "SSH-C16",
+      "relation": "연결된다",
+      "to": "CONCEPT-투자 사례"
+    },
+    {
+      "from": "SSH-C16",
+      "relation": "연결된다",
+      "to": "CONCEPT-투자 가설"
+    },
+    {
+      "from": "SSH-C16",
+      "relation": "연결된다",
+      "to": "CONCEPT-판정 이벤트"
+    },
+    {
+      "from": "SSH-O01",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          85,
+          102,
+          109,
+          249,
+          255,
+          256
+        ]
+      }
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "문서_관측으로_확인된다",
+      "to": "SSH-O01"
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "문서_관측으로_확인된다",
+      "to": "SSH-O01"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "문서_관측으로_확인된다",
+      "to": "SSH-O01"
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "문서_관측으로_확인된다",
+      "to": "SSH-O01"
+    },
+    {
+      "from": "SSH-O02",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          149,
+          151,
+          153,
+          154,
+          155,
+          156,
+          200
+        ]
+      }
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "문서_관측으로_확인된다",
+      "to": "SSH-O02"
+    },
+    {
+      "from": "SSH-O03",
+      "relation": "출처가_있다",
+      "to": "SSH-S01",
+      "locator": {
+        "pdf_pages": [
+          89,
+          168,
+          170,
+          171,
+          172,
+          176,
+          179,
+          183,
+          249,
+          256
+        ]
+      }
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "문서_관측으로_확인된다",
+      "to": "SSH-O03"
+    },
+    {
+      "from": "RET-RANK-FLNC-POET-20260917",
+      "relation": "분석한다",
+      "to": "RET-FLNC"
+    },
+    {
+      "from": "RET-RANK-FLNC-POET-20260917",
+      "relation": "분석한다",
+      "to": "RET-POET"
+    },
+    {
+      "from": "RET-LEAD-POET-20260917",
+      "relation": "순위관측이다",
+      "to": "RET-RANK-FLNC-POET-20260917"
+    },
+    {
+      "from": "RET-LEAD-FLNC-20260917",
+      "relation": "순위관측이다",
+      "to": "RET-RANK-FLNC-POET-20260917"
+    },
+    {
+      "from": "RET-LEAD-POET-20260917",
+      "relation": "대상이다",
+      "to": "RET-POET"
+    },
+    {
+      "from": "RET-LEAD-FLNC-20260917",
+      "relation": "대상이다",
+      "to": "RET-FLNC"
+    },
+    {
+      "from": "RET-SCREEN-LEADER-20260918",
+      "relation": "교훈을_얻는다",
+      "to": "RET-RANK-FLNC-POET-20260917"
+    },
+    {
+      "from": "RET-SCREEN-LEADER-20260918",
+      "relation": "참조한다",
+      "to": "SSH-O01"
+    },
+    {
+      "from": "SSH-G01",
+      "relation": "constrains_interpretation_of",
+      "to": "SSH-C08"
+    },
+    {
+      "from": "SSH-G01",
+      "relation": "constrains_interpretation_of",
+      "to": "SSH-O02"
+    },
+    {
+      "from": "SSH-G01",
+      "relation": "constrains_interpretation_of",
+      "to": "SSH-S01"
+    },
+    {
+      "from": "RET-SCREEN-12-20260928",
+      "relation": "확장한다",
+      "to": "RET-SCREEN-LEADER-20260918"
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-C07",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "사후_사례에_적용해_검토한다",
+      "to": "SSH-CASE-HYNIX-20261008",
+      "reviewed_at": "2026-10-08",
+      "reviewer": "assistant"
+    },
+    {
+      "from": "SSH-HYNIX-PRICE-20261008",
+      "relation": "부분_가격_증거를_제공한다",
+      "to": "SSH-CASE-HYNIX-20261008"
+    },
+    {
+      "from": "SSH-CASE-HYNIX-20261008",
+      "relation": "외부_비교_피드백을_제공한다",
+      "to": "TR-002"
+    },
+    {
+      "from": "SSH-C01",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C02",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C03",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C04",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C05",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C06",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C07",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C08",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C09",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C10",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C11",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C12",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C13",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C14",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C15",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-C16",
+      "relation": "적용_상태를_점검한다",
+      "to": "SSH-CASE-HYNIX-WAIVER-20261008"
+    },
+    {
+      "from": "SSH-CASE-HYNIX-WAIVER-20261008",
+      "relation": "불완전한_가격_청산_결론을_정정한다",
+      "to": "SSH-CASE-HYNIX-20261008"
+    },
+    {
+      "from": "SSH-CASE-HYNIX-WAIVER-20261008",
+      "relation": "피드백을_갱신한다",
+      "to": "TR-002"
+    }
+  ],
+  "adoption_events": [],
+  "retrospective_analysis": {
+    "id": "RET-RANK-FLNC-POET-20260917",
+    "type": "retrospective-ranking",
+    "note": "투자철학/03. 상세 복기 주도주 순위.md",
+    "status": "reference_only",
+    "scope": [
+      "RET-FLNC",
+      "RET-POET"
+    ],
+    "calculation": "reports/retrospective-leaders-20260916/ranking-detailed.json",
+    "method": "최초 매수 직전 종가 기준 시장초과수익·주간승률·고점거리 가중점수",
+    "rank": [
+      {
+        "case": "RET-POET",
+        "symbol": "POET",
+        "score": 100.0,
+        "rank": 1
+      },
+      {
+        "case": "RET-FLNC",
+        "symbol": "FLNC",
+        "score": 0.0,
+        "rank": 2
+      }
+    ],
+    "interpretation": "PoET가 두 사례 중 상대적으로 높지만 두 사례 모두 절대 조건 0/4; 시장 전체 주도주 판정 아님"
+  },
+  "retrospective_principle_reviews": [
+    {
+      "id": "RET-REV-FLNC-16",
+      "case": "RET-FLNC",
+      "principle_prefix": "SSH-C01..SSH-C16",
+      "score": 7,
+      "max_score": 32,
+      "note": "03. 상세 복기 주도주 순위.md의 16개 원칙 표; 기록·증거 상태 점수"
+    },
+    {
+      "id": "RET-REV-POET-16",
+      "case": "RET-POET",
+      "principle_prefix": "SSH-C01..SSH-C16",
+      "score": 5,
+      "max_score": 32,
+      "note": "03. 상세 복기 주도주 순위.md의 16개 원칙 표; 미복원은 실패 확정이 아닌 공백"
+    }
+  ],
+  "updated_at": "2026-10-08"
+}
